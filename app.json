@@ -1,6 +1,6 @@
 {
-  "name": "ANDENCENTO-ᴜsᴇʀʙᴏᴛ",
-  "description": "ANDENCENTO-ᴜsᴇʀʙᴏᴛ is one of the Best UserBot for Telegram. Known for its Smoothness, Design, Support.",
+  "name": "Aɴᴅᴇɴᴄᴇɴᴛᴏ UsᴇʀBᴏᴛ",
+  "description": "Aɴᴅᴇɴᴄᴇɴᴛᴏ UsᴇʀBᴏᴛ is one of the Best UserBot for Telegram. Known for its Smoothness, Design, Support.",
   "logo": "https://telegra.ph/file/99939edc0f7ac640ab688.png ",
     "keywords": [
     "telegram",
@@ -11,9 +11,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Team-Andencento/Andencento",
-  "website": "https://github.com/Team-Andencento/Andencento",
-  "success_url": "https://github.com/Team-Andencento/Andencento",
+  "repository": "https://github.com/Andencento/Andencento/",
+  "website": "https://github.com/Andencento/Andencento/",
+  "success_url": "https://github.com/Andencento/Andencento/",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
@@ -35,7 +35,7 @@
       "required": false
     },
     "ABUSE": {
-      "description": "Leave it blank if you dont want Profanity in EivaBot. Else Fill ON.",
+      "description": "Leave it blank if you dont want Profanity in Andencento. Else Fill ON.",
       "value": "ON",
       "required": false
     },
@@ -45,7 +45,7 @@
       "required": false
     },
     "PM_LOG_ID": {
-      "description": "Fill your private Channel ID if you want to Log PM messages. Get channel id from @Eiva50_bot",
+      "description": "Fill your private Channel ID if you want to Log PM messages.",
       "value": "",
       "required": false
     },
