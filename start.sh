@@ -1,4 +1,4 @@
-echo "Configuring Andencento"
+echo "Configuring Andencento" # Bisi Dont Kang Made by Noob Stranger if wanna kang then first ask else get ready to get copyright strike based in DMCA
 if [[ $UPSTREAM_REPO == "DEV" ]]
 then
    git clone -b Dev https://github.com/Andencento/Andencento.git
