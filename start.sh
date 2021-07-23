@@ -1,3 +1,3 @@
-pip3 install Andencento-Userbot==0.1
+pip3 install Andencento
 
 python3 -m userbot
