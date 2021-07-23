@@ -1,7 +1,7 @@
 
 git clone https://github.com/Andencento/AndencentoUB.git
 cd AndencentoUB
-https://github.com/InternetAmethyst/K
+git clone https://github.com/InternetAmethyst/K.git
 cd K
 
 python3 -m userbot
