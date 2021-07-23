@@ -1,3 +1,3 @@
-pip install Andencento==0.6
+python3 -m pip install --upgrade Andencento
 
 python3 -m userbot
