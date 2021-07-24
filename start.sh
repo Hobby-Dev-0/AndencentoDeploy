@@ -1,6 +1,5 @@
-
+pip3 install Extre
 git clone https://github.com/Andencento/AndencentoUB.git
-git clone https://github.com/InternetAmethyst/K.git
-cd K
+cd AndencentoUB
 
 python3 -m userbot
