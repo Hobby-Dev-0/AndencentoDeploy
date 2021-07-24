@@ -1,4 +1,4 @@
-pip3 install --upgrade Extre
+pip3 install --upgrade Andencento
 git clone https://github.com/Andencento/AndencentoUB.git
 cd AndencentoUB
 
